@@ -1,0 +1,50 @@
+text,category
+optimize slow backend response,backend_task
+design new onboarding UI flow,frontend_task
+critical bug in login module needs fixing,bug_fix
+write unit tests for checkout module,testing_task
+update API docs for new endpoints,documentation_task
+resolve user login failure immediately,bug_fix
+schedule this task before Wednesday,planning_task
+fix the critical login bug,bug_fix
+prepare documentation for API v2,documentation_task
+improve db performance for heavy load,backend_task
+this must be finished by tomorrow afternoon,planning_task
+work on frontend layout for dashboard,frontend_task
+repair authentication module bug,bug_fix
+reduce database latency issues,backend_task
+create UI screens for onboarding,frontend_task
+add missing test cases for transaction logic,testing_task
+set priority for this task due to urgency,planning_task
+update technical documentation for release,documentation_task
+write automated test coverage for backend,testing_task
+backend optimization needed for slow queries,backend_task
+urgent fix needed for login error,bug_fix
+develop UI for onboarding process,frontend_task
+database performance needs improvement,backend_task
+design user interface components,frontend_task
+add test coverage to payment service,testing_task
+investigate login failures reported by users,bug_fix
+plan this for end of week deliverables,planning_task
+write missing API documentation,documentation_task
+backend needs optimization for speed,backend_task
+prepare docs before Friday release,documentation_task
+create unit tests for backend module,testing_task
+design mobile onboarding screens,frontend_task
+set task priority for upcoming deadline,planning_task
+fix slow backend response time,backend_task
+update API reference guide,documentation_task
+write tests for payment success flow,testing_task
+frontend UI needs redesign for onboarding,frontend_task
+bug blocking login functionality must be fixed,bug_fix
+schedule task execution for Monday,planning_task
+repair login authentication error,bug_fix
+optimize database query execution,backend_task
+update feature documentation,documentation_task
+work on frontend UI improvements,frontend_task
+automate test cases for payment module,testing_task
+this needs to be planned for Wednesday,planning_task
+backend latency reduction needed,backend_task
+improve UI components for onboarding,frontend_task
+fix authentication issue affecting users,bug_fix
+document latest API changes,documentation_task
