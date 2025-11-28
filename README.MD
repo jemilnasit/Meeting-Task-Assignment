@@ -24,3 +24,7 @@
 
 #### -> requirements.txt file:
 - it contains dependencies or packages that is required in project
+
+### Output :
+
+![alt text](image.png)
