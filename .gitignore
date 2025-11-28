@@ -1,1 +1,4 @@
 venv/
+*.joblib
+__pycache__/
+*.mp3
