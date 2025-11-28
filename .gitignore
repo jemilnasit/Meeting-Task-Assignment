@@ -2,4 +2,3 @@ venv/
 *.joblib
 __pycache__/
 *.mp3
-*.png
